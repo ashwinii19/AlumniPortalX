@@ -1,1 +1,1 @@
-AlumniPortalX
+AlumniPortalx
